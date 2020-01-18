@@ -1,0 +1,6 @@
+echo "# TEST_PRAT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Prathima89/TEST_PRAT.git
+git push -u origin master
